@@ -1,0 +1,11 @@
+{
+  "name": "example-discord-bot",
+  "version": "0.0.1-beta",
+  "description": "Um bot de exemplo para o Discord que ensina o básico da biblioteca discord.js",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
