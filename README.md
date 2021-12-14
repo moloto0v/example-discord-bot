@@ -50,4 +50,6 @@ node .
 ```
 E isso iniciará o BOT.
 
-
+# Quer ajudar a desenvolver?
+Se você tem intenção de ajudar a desenvolver novos comandos, sistemas e estruturas para o bot, abra um Pull Request!
+Eu analizarei exatamente a sua ideia e se ela for plausível, eu aceitarei o seu PR.
